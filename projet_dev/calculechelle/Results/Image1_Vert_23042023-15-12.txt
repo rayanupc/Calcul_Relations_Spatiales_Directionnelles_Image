@@ -1,0 +1,2 @@
+-------
+La methode du barycentre nous donne: 1.91 degré.
